@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **OS, kubernetes , openshift , ansible ,Terraform , Azure DevOps , Linux , GitOps**
 
-- 📄 Know about my experiences [linkedin.com/in/evaristus-basung](linkedin.com/in/evaristus-basung)
+- 📄 Know about my experiences https://www.linkedin.com/in/evaristus-basung
 
 - ⚡ Fun fact **cycling swimming and video Games**
 
