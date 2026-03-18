@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to help with **Ci/cd / kubernetes / openshihif /Ansible /Terraform / Github actions**
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **OS, kubernetes , openshift , ansible ,Terraform , Azure DevOps , Linux , GitOps**
 
